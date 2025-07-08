@@ -1,4 +1,6 @@
 # Hospital Emergency Room Dashboard
+![Dashboard Preview](final_dashboard.png)
+
 
 ## 📌 Project Overview
 
