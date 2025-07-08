@@ -46,8 +46,4 @@ F/Female = Female
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard Screenshot](final dashboard.png)
-
----
